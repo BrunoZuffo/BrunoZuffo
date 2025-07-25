@@ -4,9 +4,9 @@
 💻 🇺🇸 Passionate about software development and impactful solutions  
 🌱 🇺🇸 Constantly improving my skills through academic and personal projects  
 
-💻 🇧🇷 Apaixonado por desenvolvimento de software e soluções com impacto
-🎓 🇧🇷 Sou estudante de Engenharia de Computação na **USP São Carlos**
-🌱 🇧🇷 Em constante evolução por meio de projetos acadêmicos e pessoais
+🎓 🇧🇷 Sou estudante de Engenharia de Computação na **USP São Carlos**  
+💻 🇧🇷 Apaixonado por desenvolvimento de software e soluções com impacto  
+🌱 🇧🇷 Em constante evolução por meio de projetos acadêmicos e pessoais  
 
 ---
 
