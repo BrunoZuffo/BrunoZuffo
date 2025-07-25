@@ -48,7 +48,7 @@ Projeto acadêmico com implementação de duas pilhas em um único vetor em C.
 
 ## 📫 Let's Connect | Contato
 
-- [LinkedIn](www.linkedin.com/in/bruno-zuffo-10088b216)
+- [LinkedIn](https://www.linkedin.com/in/bruno-zuffo-10088b216)
 - [GitHub](https://github.com/BrunoZuffo)
 
 ---
