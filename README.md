@@ -48,9 +48,7 @@ Projeto acadêmico com implementação de duas pilhas em um único vetor em C.
 
 ## 📫 Let's Connect | Contato
 
-- [LinkedIn](https://www.linkedin.com/in/bruno-zuffo-351849295/)
+- [LinkedIn](www.linkedin.com/in/bruno-zuffo-10088b216)
 - [GitHub](https://github.com/BrunoZuffo)
 
 ---
-
-_“Code is the closest thing we have to magic.” — Unknown_
