@@ -1,4 +1,5 @@
 # 👋 Hello! I'm Bruno Zuffo | Olá! Eu sou o Bruno Zuffo
+
 ## 🛠️ Languages & Technologies | Linguagens e Tecnologias
 
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
@@ -13,38 +14,32 @@
 
 ---
 
-🎓 🇺🇸 I'm a Computer Engineering student at **USP São Carlos**  
-💻 🇺🇸 Passionate about software development and impactful solutions  
-🌱 🇺🇸 Constantly improving my skills through academic and personal projects  
-
-🎓 🇧🇷 Sou estudante de Engenharia de Computação na **USP São Carlos**  
-💻 🇧🇷 Apaixonado por desenvolvimento de software e soluções com impacto  
-🌱 🇧🇷 Em constante evolução por meio de projetos acadêmicos e pessoais  
-
----
-
 ## 🇺🇸 About Me
 
-- 📚 Strong academic foundation in computing and engineering
-- 🤝 Team player, currently participating in extension group selection processes like **Codelab**
-- 🚀 Focused on learning by doing — turning theory into real, working code
+🎓 I'm a Computer Engineering student at **USP São Carlos**  
+💻 Passionate about software development and impactful solutions  
+🌱 Constantly improving my skills through academic and personal projects  
+🤝 Team player, currently participating in extension group selection processes like **Codelab**  
+🚀 Focused on learning by doing — turning theory into real, working code  
 
 ## 🇧🇷 Sobre Mim
 
-- 📚 Forte base acadêmica em computação e engenharia
-- 🤝 Trabalho bem em equipe e participo de processos como o grupo de extensão **Codelab**
-- 🚀 Valorizo o aprendizado prático: transformar teoria em soluções reais
+🎓 Sou estudante de Engenharia de Computação na **USP São Carlos**  
+💻 Apaixonado por desenvolvimento de software e soluções com impacto  
+🌱 Em constante evolução por meio de projetos acadêmicos e pessoais  
+🤝 Trabalho bem em equipe e participo de processos como o grupo de extensão **Codelab**  
+🚀 Valorizo o aprendizado prático: transformar teoria em soluções reais  
 
 ---
 
 ## 📌 Featured Projects | Projetos em Destaque
 
-### 🎮 [Buscador de Jogos](https://github.com/BrunoZuffo/BuscadorDeJogos)
+### 🎮 [Buscador de Jogos](https://github.com/CLQueirozz/Codelab)
 A web app to search for games using the RAWG API with filters by genre, platform, and tags.  
 Aplicação web para buscar jogos usando a API da RAWG com filtros por gênero, plataforma e tags.  
 > Built with | Feito com: HTML, CSS, JavaScript
 
-### 🧩 [Double Stack in C](https://github.com/BrunoZuffo/DoubleStack)
+### 🧩 [Double Stack in C](https://github.com/BrunoZuffo/Double-Stack)
 Academic project implementing two stacks in a single array in C.  
 Projeto acadêmico com implementação de duas pilhas em um único vetor em C.  
 > Built with | Feito com: C, header files, modular structure
