@@ -1,6 +1,6 @@
-# 👋 Hello! I'm Bruno Zuffo | Olá! Eu sou o Bruno Zuffo
+# 👋 Hello! I'm Bruno Zuffo
 
-## 🛠️ Languages & Technologies | Linguagens e Tecnologias
+## 🛠️ Languages & Technologies
 
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -14,7 +14,7 @@
 
 ---
 
-## 🇺🇸 About Me
+## About Me
 
 🎓 I'm a Computer Engineering student at **USP São Carlos**  
 💻 Passionate about software development and impactful solutions  
@@ -22,19 +22,11 @@
 🤝 Team player, currently participating in extension group selection processes like **Codelab**  
 🚀 Focused on learning by doing — turning theory into real, working code  
 
-## 🇧🇷 Sobre Mim
-
-🎓 Sou estudante de Engenharia de Computação na **USP São Carlos**  
-💻 Apaixonado por desenvolvimento de software e soluções com impacto  
-🌱 Em constante evolução por meio de projetos acadêmicos e pessoais  
-🤝 Trabalho bem em equipe e participo de processos como o grupo de extensão **Codelab**  
-🚀 Valorizo o aprendizado prático: transformar teoria em soluções reais  
-
 ---
 
-## 📌 Featured Projects | Projetos em Destaque
+## 📌 Featured Projects
 
-### 🎮 [Buscador de Jogos](https://github.com/CLQueirozz/Codelab)
+### 🎮 [Game Searcher](https://github.com/CLQueirozz/Codelab)
 A web app to search for games using the RAWG API with filters by genre, platform, and tags.  
 Aplicação web para buscar jogos usando a API da RAWG com filtros por gênero, plataforma e tags.  
 > Built with | Feito com: HTML, CSS, JavaScript
@@ -46,9 +38,8 @@ Projeto acadêmico com implementação de duas pilhas em um único vetor em C.
 
 ---
 
-## 📫 Let's Connect | Contato
+## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/bruno-zuffo-10088b216)
-- [GitHub](https://github.com/BrunoZuffo)
 
 ---
