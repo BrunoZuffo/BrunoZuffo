@@ -25,7 +25,7 @@
 
 ## 📌 Featured Projects
 
-### 🎮 [Game Searcher](https://github.com/BrunoZuffo/Game-Searcher)
+### 🎮 [Game Searcher (JavaScript)](https://github.com/BrunoZuffo/Game-Searcher)
 A web app to search for games using the RAWG API with filters by genre, platform, and tags. You can also access the original version of this project on my project partner's [GitHub](https://github.com/CLQueirozz/Codelab).   
 Aplicação web para buscar jogos usando a API da RAWG com filtros por gênero, plataforma e tags. Você também pode acessar a versão original deste projeto no [GitHub](https://github.com/CLQueirozz/Codelab) da minha colega de projeto.  
 > Built with | Feito com: HTML, CSS, JavaScript
